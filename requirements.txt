@@ -1,0 +1,4 @@
+flask
+mnemonic
+eth-account
+requests
